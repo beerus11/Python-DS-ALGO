@@ -1,4 +1,5 @@
 __author__ = 'Anurag Goel'
+
 class Node:
     def init(self):
         self.data=None
